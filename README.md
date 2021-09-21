@@ -2,7 +2,6 @@ Hi there my name is Fortr4n
 
 About me
 
-Yonsei University: Phd AI
 
 **Skills**
 
