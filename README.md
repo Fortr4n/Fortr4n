@@ -103,31 +103,39 @@ I believe the future belongs to those who think beyond convention — and that m
 
 ### 📈 GitHub Analytics & Developer Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fortr4n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=👨‍💻+fortr4n's+GitHub+Stats" alt="fortr4n GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortr4n&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortr4n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fortr4n&theme=tokyonight" alt="Profile Summary Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fortr4n&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fortr4n&theme=tokyonight" alt="Most Used Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fortr4n&theme=tokyonight&utcOffset=-5" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=fortr4n&bg=1d1f21&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=fortr4n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=👨‍💻+fortr4n's+GitHub+Stats" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortr4n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortr4n&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fortr4n&theme=tokyonight&utcOffset=-5" alt="Productive Time" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fortr4n&theme=tokyonight" alt="Repos per Language" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fortr4n&theme=tokyonight" alt="Most Used Language" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fortr4n&theme=tokyonight" alt="Profile Summary" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-contribution-graph.ez4o.com/?username=fortr4n&bg=1d1f21&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
